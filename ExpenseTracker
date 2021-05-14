@@ -38,3 +38,7 @@ def counter():
     elif (day1 == 6):
       quit()
 #quit option
+
+    """daily"""
+#start of the weekly entries 
+    if (day1 == 5):
