@@ -51,3 +51,6 @@ def counter():
       weekly4 = float(input("Week 4: "))
       g3 = weekly4
 #monthly total
+    elif (day1 == 2):
+      o = int((g + g1 + g2 + g3))
+      print("Your total for the month is: " + "$" + '{0}'.format(o)) 
