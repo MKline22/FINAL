@@ -9,3 +9,19 @@ def counter():
  #while loop to continue asking
  while e != 'quit':
     day1 = float(input("\n\nPlease enter one of the number options from above: "))
+#day1 is main variable for prompting user
+    if (day1 == 4):
+     daily1 = float(input("day 1: "))
+     x = daily1
+     daily2 = float(input("day 2: "))
+     x1 = daily2
+     daily3 = float(input("day 3: "))
+     x2 = daily3
+     daily4 = float(input("day 4: "))
+     x3 = daily4
+     daily5 = float(input("day 5: "))
+     x4 = daily5
+     daily6 = float(input("day 6: "))
+     x5 = daily6
+     daily7 = float(input("day 7: "))
+     x6 = daily7    
