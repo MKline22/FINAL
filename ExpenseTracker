@@ -7,3 +7,5 @@ print(dict)
 def counter(): 
  e = True
  #while loop to continue asking
+ while e != 'quit':
+    day1 = float(input("\n\nPlease enter one of the number options from above: "))
