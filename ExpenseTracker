@@ -42,3 +42,12 @@ def counter():
     """daily"""
 #start of the weekly entries 
     if (day1 == 5):
+      weekly1 = float(input("Week 1: ") )
+      g = weekly1
+      weekly2 = float(input("Week 2: "))
+      g1 = weekly2
+      weekly3 = float(input("Week 3: "))
+      g2 = weekly3
+      weekly4 = float(input("Week 4: "))
+      g3 = weekly4
+#monthly total
