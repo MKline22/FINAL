@@ -60,4 +60,4 @@ def counter():
       print("Your weekly amounts for the month are: " + '{0}'.format(y))
 #end of program
 #entries will print
-
+count()
