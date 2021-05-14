@@ -25,3 +25,8 @@ def counter():
      x5 = daily6
      daily7 = float(input("day 7: "))
      x6 = daily7    
+ #daily options
+    elif (day1 == 1):
+     
+     z = (x + x1 + x2 + x3 + x4 + x5 + x6)
+     print("Your total for the week is: " + "$" + '{0}'.format(z))
