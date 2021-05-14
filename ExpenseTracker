@@ -3,3 +3,7 @@ print("Hello, Welcome To The Expense Tracker! Your options are:\n")
 #dictionary used for user options
 dict = {0: 'Daily results', 1: 'Weekly results', 2: 'monthly results', 3: 'Weekly results for the month', 4: 'For daily entry with weekly total', 5: 'For weekly entry with monthly total', 6: 'To end the program'}
 print(dict)
+
+def counter(): 
+ e = True
+ #while loop to continue asking
